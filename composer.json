@@ -6,12 +6,9 @@
   "replace": {    
     "magento/adobe-ims": "*",
     "magento/adobe-stock-integration": "*",
-    "magento/framework-amqp": "*",
     "magento/google-shopping-ads": "*",
     "magento/language-zh_hans_cn": "*",
     "magento/module-admin-analytics": "*",
-    "magento/module-amqp": "*",
-    "magento/module-amqp-store": "*",
     "magento/module-analytics": "*",
     "magento/module-catalog-analytics": "*",
     "magento/module-catalog-page-builder-analytics": "*",
