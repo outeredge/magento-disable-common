@@ -9,7 +9,6 @@
     "magento/google-shopping-ads": "*",
     "magento/language-zh_hans_cn": "*",
     "magento/module-admin-analytics": "*",
-    "magento/module-analytics": "*",
     "magento/module-catalog-analytics": "*",
     "magento/module-catalog-page-builder-analytics": "*",
     "magento/module-customer-analytics": "*",
