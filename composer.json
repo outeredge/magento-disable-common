@@ -50,6 +50,7 @@
     "magento/module-swagger-webapi": "*",
     "magento/module-swagger-webapi-async": "*",
     "magento/module-version": "*",
-    "temando/module-shipping-remover": "*"
+    "temando/module-shipping-remover": "*",
+    "magefan/module-admin-user-guide": "*"
   }
 }
