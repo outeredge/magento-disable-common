@@ -44,8 +44,6 @@
     "magento/module-re-captcha-store-pickup": "*",
     "magento/module-review-analytics": "*",
     "magento/module-sales-analytics": "*",
-    "magento/module-services-id": "*",
-    "magento/module-services-id-layout": "*",
     "magento/module-sample-data": "*",
     "magento/module-send-friend": "*",
     "magento/module-send-friend-graph-ql": "*",
