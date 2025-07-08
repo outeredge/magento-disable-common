@@ -13,7 +13,6 @@
     "magento/google-shopping-ads": "*",
     "magento/language-zh_hans_cn": "*",
     "magento/module-admin-analytics": "*",
-    "magento/module-amqp": "*",
     "magento/module-application-performance-monitor": "*",
     "magento/module-application-performance-monitor-new-relic": "*",
     "magento/module-catalog-analytics": "*",
@@ -53,7 +52,6 @@
     "magento/module-swagger-webapi": "*",
     "magento/module-swagger-webapi-async": "*",
     "magento/module-version": "*",
-    "magento/module-webapi-async": "*",
     "temando/module-shipping": "*",
     "temando/module-shipping-remover": "*",
     "magefan/module-admin-user-guide": "*"
