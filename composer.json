@@ -16,6 +16,7 @@
     "magento/module-customer-analytics": "*",
     "magento/module-google-adwords": "*",
     "magento/module-google-analytics": "*",
+    "magento/module-google-tag-manager": "*",
     "magento/module-google-gtag": "*",
     "magento/module-google-optimizer": "*",
     "magento/module-inventory-in-store-pickup": "*",
