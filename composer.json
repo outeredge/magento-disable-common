@@ -19,6 +19,7 @@
     "magento/module-google-tag-manager": "*",
     "magento/module-google-gtag": "*",
     "magento/module-google-optimizer": "*",
+    "magento/module-google-optimizer-staging": "*",
     "magento/module-inventory-in-store-pickup": "*",
     "magento/module-inventory-in-store-pickup-admin-ui": "*",
     "magento/module-inventory-in-store-pickup-api": "*",
