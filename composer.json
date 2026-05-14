@@ -55,6 +55,7 @@
     "magento/module-swagger-webapi-async": "*",
     "magento/module-version": "*",
     "magento/module-wishlist-analytics": "*",
+    "paypal/module-braintree": "*",
     "temando/module-shipping": "*",
     "temando/module-shipping-remover": "*",
     "magefan/module-admin-user-guide": "*"
